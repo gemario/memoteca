@@ -39,23 +39,26 @@ Este projeto foi realizado durante o curso de Angular da [Alura](https://www.alu
 
 ### 1. Clone o repositório:
 
-````bash
+```bash
 git clone https://github.com/seu-usuario/seu-repositorio.git
 cd seu-repositorio
 ```
 
 ### 2. Instale as dependências:
+
 ```bash
 npm install
 ```
 
 ### 3. Inicie o backend com JSON Server:
+
 ```bash
 npx json-server --watch db.json
 O arquivo db.json simula um banco de dados para armazenar os pensamentos.
 ```
 
 ### 4. Rode o projeto Angular:
+
 ```bash
 ng serve
 Acesse no navegador:
@@ -65,12 +68,14 @@ http://localhost:4200
 ---
 
 ## 🌐 Deploy
+
 A aplicação está disponível online via Vercel:
 ➡️ [memoteca](https://memoteca-mu.vercel.app/listarPensamento)
 
 ---
 
 ## 🧠 Aprendizados
+
 Durante o desenvolvimento, foram abordados:
 
 - Componentização no Angular
@@ -92,6 +97,7 @@ Durante o desenvolvimento, foram abordados:
 - Simulação de backend com JSON Server
 
 ## 🛠 Melhorias futuras
+
 - Implementar paginação na listagem de pensamentos
 
 - Adicionar a funcionalidade de editar e excluir pensamentos
@@ -101,5 +107,5 @@ Durante o desenvolvimento, foram abordados:
 - Implementar autenticação de usuários
 
 ## 📝 Licença
+
 Este projeto está sob a licença MIT.
-````
