@@ -8,21 +8,57 @@
     },
     {
       "id": 2,
-      "conteudo": "Estudando Angular",
-      "autoria": "Mano Deivin",
+      "conteudo": "Acredite nos seus sonhos, mesmo que pareçam impossíveis. Grandes conquistas começaram com pequenos passos dados por aqueles que ousaram sonhar.",
+      "autoria": "Maria Inspira",
       "modelo": "modelo2"
     },
     {
       "id": 3,
-      "conteudo": "Finalizando o primeiro curso de Angular",
-      "autoria": "Pequeno gafanhoto",
+      "conteudo": "A jornada é longa, cheia de obstáculos e surpresas. No entanto, cada desafio é uma oportunidade disfarçada de dificuldade, cada tropeço é uma chance de levantar ainda mais forte, e cada lágrima é a prova viva de que você está tentando, crescendo e evoluindo a cada instante.",
+      "autoria": "João Reflexivo",
       "modelo": "modelo3"
     },
     {
-      "conteudo": "O modo como você reúne, administra e usa a informação determina se vencerá ou perderá.",
-      "autoria": "Bill Gates",
-      "modelo": "modelo1",
-      "id": 4
+      "id": 4,
+      "conteudo": "Seja a mudança que você quer ver no mundo",
+      "autoria": "Gandhi",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 5,
+      "conteudo": "A vida é feita de momentos simples, que muitas vezes deixamos passar despercebidos enquanto buscamos grandes feitos. Valorize o agora, abrace quem você ama e sorria para a vida.",
+      "autoria": "Ana Simples",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 6,
+      "conteudo": "O sucesso não é final, o fracasso não é fatal: é a coragem de continuar que conta. Lembre-se de que cada novo dia é uma nova chance de recomeçar e fazer melhor do que ontem, mesmo que o mundo pareça desabar ao seu redor.",
+      "autoria": "Winston Persistente",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 7,
+      "conteudo": "Entre o que somos e o que queremos ser, existe o que fazemos. Nossas atitudes diárias moldam o nosso destino de forma silenciosa, mas poderosa.",
+      "autoria": "Carlos Atitude",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 8,
+      "conteudo": "O tempo é um professor severo. Primeiro ele testa, depois ensina. Mas cabe a nós prestar atenção às lições ocultas em cada experiência para crescer como seres humanos melhores.",
+      "autoria": "Laura Tempo",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 9,
+      "conteudo": "Não importa quantas vezes você caiu ou quantas vezes disseram que você não era capaz. O que realmente importa é quantas vezes você levantou, quantas vezes acreditou em si mesmo quando mais ninguém acreditava, quantas vezes recomeçou mesmo com medo, mesmo sem ter certeza de nada.",
+      "autoria": "Victor Corajoso",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 10,
+      "conteudo": "Sonhar grande ou pequeno dá o mesmo trabalho. Então mire alto, aponte para as estrelas e não tenha medo de falhar, pois cada tentativa é um passo mais perto do seu propósito de vida.",
+      "autoria": "Pedro Sonhador",
+      "modelo": "modelo1"
     }
   ]
 }
