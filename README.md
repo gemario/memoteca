@@ -50,10 +50,10 @@ cd seu-repositorio
 npm install
 ```
 
-### 3. Inicie o backend com JSON Server:
+### 3. Inicie a pasta backend com JSON Server:
 
 ```bash
-npx json-server --watch db.json
+npm start
 O arquivo db.json simula um banco de dados para armazenar os pensamentos.
 ```
 
