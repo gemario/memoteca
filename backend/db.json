@@ -1,0 +1,28 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Que bom que você veio",
+      "autoria": "Dev Soltinho",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "Estudando Angular",
+      "autoria": "Mano Deivin",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "Finalizando o primeiro curso de Angular",
+      "autoria": "Pequeno gafanhoto",
+      "modelo": "modelo3"
+    },
+    {
+      "conteudo": "O modo como você reúne, administra e usa a informação determina se vencerá ou perderá.",
+      "autoria": "Bill Gates",
+      "modelo": "modelo1",
+      "id": 4
+    }
+  ]
+}
