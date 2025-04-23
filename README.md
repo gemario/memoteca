@@ -1,27 +1,105 @@
-# Memoteca
+# 📚 Memoteca
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
+Memoteca é uma aplicação desenvolvida em Angular que permite a criação, visualização e listagem de pensamentos inspiradores!
+Este projeto foi realizado durante o curso de Angular da [Alura](https://www.alura.com.br/).
 
-## Development server
+---
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## ✨ Funcionalidades
 
-## Code scaffolding
+- Cadastro de novos pensamentos
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Listagem de pensamentos
 
-## Build
+- Comunicação com backend simulado (JSON Server)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- Navegação de páginas com Angular Router
 
-## Running unit tests
+- Deploy realizado na Vercel
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+---
 
-## Running end-to-end tests
+## 🚀 Tecnologias utilizadas
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+- Angular 14
 
-## Further help
+- TypeScript
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+- HTML5
+
+- CSS3
+
+- JSON Server
+
+- Vercel
+
+---
+
+## 📦 Como rodar o projeto
+
+### 1. Clone o repositório:
+
+````bash
+git clone https://github.com/seu-usuario/seu-repositorio.git
+cd seu-repositorio
+```
+
+### 2. Instale as dependências:
+```bash
+npm install
+```
+
+### 3. Inicie o backend com JSON Server:
+```bash
+npx json-server --watch db.json
+O arquivo db.json simula um banco de dados para armazenar os pensamentos.
+```
+
+### 4. Rode o projeto Angular:
+```bash
+ng serve
+Acesse no navegador:
+http://localhost:4200
+```
+
+---
+
+## 🌐 Deploy
+A aplicação está disponível online via Vercel:
+➡️ [memoteca](https://memoteca-mu.vercel.app/listarPensamento)
+
+---
+
+## 🧠 Aprendizados
+Durante o desenvolvimento, foram abordados:
+
+- Componentização no Angular
+
+- Property Binding
+
+- Event Binding
+
+- Two-way Data Binding
+
+- Criação de rotas (RouterLink e navegação dinâmica)
+
+- Comunicação com backend (HTTP Client)
+
+- Injeção de dependências
+
+- Criação de Services
+
+- Simulação de backend com JSON Server
+
+## 🛠 Melhorias futuras
+- Implementar paginação na listagem de pensamentos
+
+- Adicionar a funcionalidade de editar e excluir pensamentos
+
+- Melhorar responsividade para dispositivos móveis
+
+- Implementar autenticação de usuários
+
+## 📝 Licença
+Este projeto está sob a licença MIT.
+````
